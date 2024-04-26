@@ -1,0 +1,43 @@
+archery
+baseball
+basketball
+billiards
+badminton
+boxing
+bowling	
+bungee
+jumping
+cricket
+cycling
+chess
+diving
+dodgeball
+fencing
+skating
+football
+golf
+handball
+hockey
+horse riding
+ice hockey
+judo
+karate
+kickboxing
+kayaking
+lacrosse
+martial Arts
+muay Thai
+paragliding
+paintball
+rowing
+rugby
+skateboarding
+shooting
+swimming
+surfing
+taekwondo
+table tennis
+volleyball
+water polo
+wrestling
+weight lifting
